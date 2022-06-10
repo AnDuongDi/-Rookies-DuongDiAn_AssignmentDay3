@@ -1,0 +1,16 @@
+E:\LEARNING\NashTech\CSharpFundamental3Bai2\obj\Debug\net5.0\CSharpFundamental3Bai2.csproj.AssemblyReference.cache
+E:\LEARNING\NashTech\CSharpFundamental3Bai2\obj\Debug\net5.0\CSharpFundamental3Bai2.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEARNING\NashTech\CSharpFundamental3Bai2\obj\Debug\net5.0\CSharpFundamental3Bai2.AssemblyInfoInputs.cache
+E:\LEARNING\NashTech\CSharpFundamental3Bai2\obj\Debug\net5.0\CSharpFundamental3Bai2.AssemblyInfo.cs
+E:\LEARNING\NashTech\CSharpFundamental3Bai2\obj\Debug\net5.0\CSharpFundamental3Bai2.csproj.CoreCompileInputs.cache
+E:\LEARNING\NashTech\CSharpFundamental3Bai2\bin\Debug\net5.0\CSharpFundamental3Bai2.exe
+E:\LEARNING\NashTech\CSharpFundamental3Bai2\bin\Debug\net5.0\CSharpFundamental3Bai2.deps.json
+E:\LEARNING\NashTech\CSharpFundamental3Bai2\bin\Debug\net5.0\CSharpFundamental3Bai2.runtimeconfig.json
+E:\LEARNING\NashTech\CSharpFundamental3Bai2\bin\Debug\net5.0\CSharpFundamental3Bai2.runtimeconfig.dev.json
+E:\LEARNING\NashTech\CSharpFundamental3Bai2\bin\Debug\net5.0\CSharpFundamental3Bai2.dll
+E:\LEARNING\NashTech\CSharpFundamental3Bai2\bin\Debug\net5.0\ref\CSharpFundamental3Bai2.dll
+E:\LEARNING\NashTech\CSharpFundamental3Bai2\bin\Debug\net5.0\CSharpFundamental3Bai2.pdb
+E:\LEARNING\NashTech\CSharpFundamental3Bai2\obj\Debug\net5.0\CSharpFundamental3Bai2.dll
+E:\LEARNING\NashTech\CSharpFundamental3Bai2\obj\Debug\net5.0\ref\CSharpFundamental3Bai2.dll
+E:\LEARNING\NashTech\CSharpFundamental3Bai2\obj\Debug\net5.0\CSharpFundamental3Bai2.pdb
+E:\LEARNING\NashTech\CSharpFundamental3Bai2\obj\Debug\net5.0\CSharpFundamental3Bai2.genruntimeconfig.cache

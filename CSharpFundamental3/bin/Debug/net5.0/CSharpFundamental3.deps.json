@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CSharpFundamental3/1.0.0": {
+        "runtime": {
+          "CSharpFundamental3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpFundamental3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
